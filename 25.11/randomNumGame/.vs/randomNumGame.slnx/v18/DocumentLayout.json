@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\griwo_shefa\\byte-club\\25.11\\randomNumGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95DAE39A-1520-471A-808C-4BB453885367}|randomNumGame.pyproj|C:\\Users\\User\\Desktop\\griwo_shefa\\byte-club\\25.11\\randomNumGame\\randomNumGame.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95DAE39A-1520-471A-808C-4BB453885367}|randomNumGame.pyproj|solutionrelative:randomNumGame.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "randomNumGame.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\griwo_shefa\\byte-club\\25.11\\randomNumGame\\randomNumGame.py",
+              "RelativeDocumentMoniker": "randomNumGame.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\griwo_shefa\\byte-club\\25.11\\randomNumGame\\randomNumGame.py",
+              "RelativeToolTip": "randomNumGame.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-25T17:03:39.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

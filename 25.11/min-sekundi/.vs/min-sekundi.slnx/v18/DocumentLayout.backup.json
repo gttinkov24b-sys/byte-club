@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\griwo_shefa\\byte-club\\25.11\\min-sekundi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A351D86B-CBF4-4553-9424-0B1CD2643345}|min-sekundi.pyproj|C:\\Users\\User\\Desktop\\griwo_shefa\\byte-club\\25.11\\min-sekundi\\min_sekundi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A351D86B-CBF4-4553-9424-0B1CD2643345}|min-sekundi.pyproj|solutionrelative:min_sekundi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "min_sekundi.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\griwo_shefa\\byte-club\\25.11\\min-sekundi\\min_sekundi.py",
+              "RelativeDocumentMoniker": "min_sekundi.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\griwo_shefa\\byte-club\\25.11\\min-sekundi\\min_sekundi.py",
+              "RelativeToolTip": "min_sekundi.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-25T16:35:25.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

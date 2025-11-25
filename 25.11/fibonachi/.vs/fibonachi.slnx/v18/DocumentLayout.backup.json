@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\griwo_shefa\\byte-club\\25.11\\fibonachi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A106EC-E9C8-4FB9-B98D-5359F2E1DE77}|fibonachi.pyproj|C:\\Users\\User\\Desktop\\griwo_shefa\\byte-club\\25.11\\fibonachi\\fibonachi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2A106EC-E9C8-4FB9-B98D-5359F2E1DE77}|fibonachi.pyproj|solutionrelative:fibonachi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fibonachi.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\griwo_shefa\\byte-club\\25.11\\fibonachi\\fibonachi.py",
+              "RelativeDocumentMoniker": "fibonachi.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\griwo_shefa\\byte-club\\25.11\\fibonachi\\fibonachi.py",
+              "RelativeToolTip": "fibonachi.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-25T16:26:27.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
